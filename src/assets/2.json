@@ -1,0 +1,120 @@
+{
+    "floor": [
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 17
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 220
+            },
+            "vertical": false,
+            "length": 12
+        },
+        {
+            "start": {
+                "x": 560,
+                "y": 220
+            },
+            "vertical": false,
+            "length": 3
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 32
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 416
+            },
+            "vertical": false,
+            "length": 10
+        },
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 736,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        }
+    ],
+    "exit": {
+        "x": 544,
+        "y": 0
+    },
+    "computers": [
+        {
+            "x": 64,
+            "y": 474
+        }
+    ],
+    "guns": [
+        {
+            "x": 544,
+            "y": 330,
+            "rotationSpeed": 6,
+            "startingAngle": 0,
+            "rateOfFire": 1000
+        }
+    ],
+    "gates": [
+        {
+            "unlock": {
+                "x": 52,
+                "y": 60
+            },
+            "x": 276,
+            "y": 464,
+            "vertical": true
+        }
+    ],
+    "coins": [
+        {
+            "x": 260,
+            "y": 200
+        },
+        {
+            "x": 292,
+            "y": 200
+        },
+        {
+            "x": 100,
+            "y": 100
+        },
+        {
+            "x": 220,
+            "y": 160
+        },
+        {
+            "x": 180,
+            "y": 140
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "floor": [
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 17
+        },
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 736,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 4
+        }
+    ],
+    "exit": {
+        "x": 544,
+        "y": 0
+    },
+    "computers": [
+
+    ],
+    "gates": [
+    ],
+    "guns": [
+    ],
+    "coins": [
+
+    ]
+}

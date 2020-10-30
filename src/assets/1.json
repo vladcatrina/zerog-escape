@@ -1,0 +1,108 @@
+{
+    "floor": [
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 17
+        },
+        {
+            "start": {
+                "x": 0,
+                "y": 32
+            },
+            "vertical": false,
+            "length": 17
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 32
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 736,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 260,
+                "y": 224
+            },
+            "vertical": false,
+            "length": 3
+        },
+        {
+            "start": {
+                "x": 500,
+                "y": 400
+            },
+            "vertical": false,
+            "length": 3
+        }
+    ],
+    "exit": {
+        "x": 544,
+        "y": 0
+    },
+    "computers": [{
+        "x": 544,
+        "y": 200
+    }],
+    "guns": [
+        {
+            "x": 544,
+            "y": 330,
+            "rotationSpeed": 2,
+            "startingAngle": 0,
+            "rateOfFire": 1000
+        }
+    ],
+    "gates": [{
+        "unlock": {
+            "x": 250,
+            "y": 330
+        },
+        "x": 544,
+        "y": 32,
+        "vertical": false
+    }],
+    "coins": [
+        {
+            "x": 270,
+            "y": 200
+        },
+        {
+            "x": 302,
+            "y": 200
+        },
+        {
+            "x": 334,
+            "y": 200
+        }
+    ]
+}

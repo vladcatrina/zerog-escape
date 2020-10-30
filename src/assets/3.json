@@ -1,0 +1,147 @@
+{
+    "floor": [
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 17
+        },
+        {
+            "start": {
+                "x": 0,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 736,
+                "y": 0
+            },
+            "vertical": true,
+            "length": 16
+        },
+        {
+            "start": {
+                "x": 608,
+                "y": 0
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 208,
+                "y": 260
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 508,
+                "y": 220
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 604,
+                "y": 124
+            },
+            "vertical": true,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 32,
+                "y": 180
+            },
+            "vertical": false,
+            "length": 4
+        },
+        {
+            "start": {
+                "x": 128,
+                "y": 20
+            },
+            "vertical": true,
+            "length": 3
+        }
+    ],
+    "exit": {
+        "x": 544,
+        "y": 0
+    },
+    "computers": [
+        {
+            "x": 670,
+            "y": 200
+        }
+    ],
+    "gates": [
+        {
+            "x": 112,
+            "y": 132,
+            "unlock": {
+                "x": 300,
+                "y": 54
+            },
+            "vertical": true
+        }
+    ],
+    "guns": [
+        {
+            "x": 700,
+            "y": 360,
+            "rotationSpeed": 0,
+            "rateOfFire": 700,
+            "startingAngle": 180
+        },
+        {
+            "x": 400,
+            "y": 60,
+            "rotationSpeed": 3,
+            "rateOfFire": 1000,
+            "startingAngle": 0
+        }
+    ],
+    "coins": [
+        {
+            "x":528,
+            "y":200
+        },
+        {
+            "x": 560,
+            "y": 200
+        },
+        {
+            "x": 592,
+            "y": 200
+        },
+        {
+            "x": 64,
+            "y": 64
+        },
+        {
+            "x": 64,
+            "y": 96
+        },
+        {
+            "x": 64,
+            "y": 128
+        },
+        {
+            "x": 64,
+            "y": 160
+        },
+        {
+            "x": 96,
+            "y": 160
+        }
+    ]
+}

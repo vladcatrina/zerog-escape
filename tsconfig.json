@@ -1,0 +1,35 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "moduleResolution": "node",
+        "outDir": "./built",
+        // "outFile": "./built/index.js",
+        "allowJs": true,
+        "lib": ["es2015", "dom"],
+        "target": "es3",
+        "watch": true,
+        "checkJs": true,
+        "pretty": true,
+        "strictNullChecks": false
+    },
+    "files": [
+        "./src/index.ts",
+        "./src/MainScene.ts",
+        "./src/Player.ts",
+        "./src/Level.ts",
+        "./src/LevelManager.ts",
+        "./src/UiScene.ts",
+        "./src/Computer.ts",
+        "./src/Gun.ts",
+        "./src/Exit.ts",
+        "./src/Gate.ts",
+        "./src/Menu.ts",
+        "./node_modules/phaser/types/phaser.d.ts"
+    ],
+    "typeRoots": [
+        "./node_modules/phaser/types"
+    ],
+    "types": [
+        "Phaser"
+    ]
+}
